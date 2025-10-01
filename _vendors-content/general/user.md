@@ -1,4 +1,5 @@
----
+---tecno
+
 manufacturer:
     - general
 ---
